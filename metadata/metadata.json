@@ -1,0 +1,15 @@
+{
+  "name": "My 96101 NFT",
+  "description": "这个NFT有一些神秘的信息环绕",
+  "image": "ipfs://bafkreibgapxhyprq5rrddnpwu2awffyrmbnocki26juusyckkrreaj5f7u",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "普通"
+    },
+    {
+      "trait_type": "创建时间",
+      "value": "2025-10-11"
+    }
+  ]
+}
